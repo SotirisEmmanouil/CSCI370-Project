@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        // Perform hotel check-in
+        //Check-in
         HotelCheckIn hotelCheckIn = new HotelCheckIn();
         hotelCheckIn.performCheckIn();
 
-        // Perform hotel check-out
+        //Check-out
         HotelCheckOut hotelCheckOut = new HotelCheckOut();
         hotelCheckOut.performCheckOut();
     }
