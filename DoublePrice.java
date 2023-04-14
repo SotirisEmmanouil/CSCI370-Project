@@ -1,3 +1,4 @@
+/* The price for rooms with double beds*/
 
 public class DoublePrice implements Price {
 	@Override

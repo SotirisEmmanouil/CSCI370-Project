@@ -1,3 +1,4 @@
+/*Price for VIP suites*/
 
 public class VIPPrice implements Price {
 

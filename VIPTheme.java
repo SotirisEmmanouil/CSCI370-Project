@@ -1,3 +1,4 @@
+/*Theme for VIP suites*/
 
 public class VIPTheme implements Theme {
 

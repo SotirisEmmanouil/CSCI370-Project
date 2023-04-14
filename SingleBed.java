@@ -1,3 +1,4 @@
+/* Bed for single bed rooms*/
 
 public class SingleBed implements Beds {
 

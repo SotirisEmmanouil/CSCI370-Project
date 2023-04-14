@@ -1,3 +1,4 @@
+/*Price for single bed rooms */
 
 public class SinglePrice implements Price {
 	@Override

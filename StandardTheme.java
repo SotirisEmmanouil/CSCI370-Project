@@ -1,3 +1,4 @@
+/* Theme for standard single and double bed rooms*/
 
 public class StandardTheme implements Theme {
 
