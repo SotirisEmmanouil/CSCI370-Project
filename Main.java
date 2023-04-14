@@ -12,7 +12,7 @@ public class Main {
         hotelCheckOut.performCheckOut();
         //DAYMON's Code - End
         
-        //Sotiris' example code
+        //SOTIRIS' EXAMPLE CODE START
         System.out.println("Would you like some room service? Enter 1 for yes or any other digit for no");
 		Scanner scan = new Scanner(System.in);
 		d = scan.nextInt();
@@ -26,17 +26,18 @@ public class Main {
 		if(d==1) {
 			RoomService service = new WhiskeyService(null);
 			 service.deliver(room);
-		 System.out.println(service.serviceCost());
+		 	System.out.println(service.serviceCost());
 		}
 		if(d==2) {
-	       RoomService service = new WineService(null);
-	      	service.deliver(room);
-	      	System.out.println(service.serviceCost());
+	      		 RoomService service = new WineService(null);
+	      		service.deliver(room);
+	      		System.out.println(service.serviceCost());
 	   }
 		if(d==3) {
 			RoomService service = new ChampagneService(null);
 			 service.deliver(room);
 			 System.out.println(service.serviceCost());
 		}
+	     //SOTIRIS' EXAMPLE CODE END
     }
 }
