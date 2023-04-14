@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int d;
-		String room = null;
+	String room = null;
         //DAYMON's Code - Start
         //Check-in
         HotelCheckIn hotelCheckIn = new HotelCheckIn();
