@@ -1,4 +1,4 @@
 
 public interface Beds {
-	void roomBeds();
+	String roomBeds();
 }

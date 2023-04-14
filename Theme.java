@@ -1,5 +1,5 @@
 
 public interface Theme {
-	void roomTheme();
+	String roomTheme();
 
 }

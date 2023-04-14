@@ -10,15 +10,16 @@ public class AddHotelRoom {
 		this.theme = theme;
 	}
 	
-	public void hotelRoomPrice() { 
-		price.roomPrice();
+	public String getHotelRoomPrice() { 
+		return price.roomPrice();
 	}
 	
-	public void hotelRoomBeds() {
-		beds.roomBeds();
+	public String getHotelRoomBeds() {
+		return beds.roomBeds();
 	}
 	
-	public void hotelRoomTheme() {
-		theme.roomTheme();
+	public String getHotelRoomTheme() {
+		return theme.roomTheme();
 	}
 }
+

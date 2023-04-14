@@ -1,5 +1,5 @@
 
 public interface Price {
-	void roomPrice();
+	String roomPrice();
 
 }
