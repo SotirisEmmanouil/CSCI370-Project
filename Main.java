@@ -22,7 +22,7 @@ public class Main {
 			d = scan.nextInt();
 			room = scan.next();
 			
-		}
+		
 		if(d==1) {
 			RoomService service = new WhiskeyService(null);
 			 service.deliver(room);
@@ -38,6 +38,7 @@ public class Main {
 			 service.deliver(room);
 			 System.out.println(service.serviceCost());
 		}
-	     //SOTIRIS' EXAMPLE CODE END
+	    
+		} //SOTIRIS' EXAMPLE CODE END
     }
 }
