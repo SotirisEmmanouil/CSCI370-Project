@@ -9,10 +9,10 @@
 Sotiris implemented the Decorator Design Pattern with the following classes:
 
 <ul>
-<li> `RoomService.java` </li>
-<li>`WineService.java`</li>
-<li>`WhiskeyService.java`</li>
-<li>`ChampagneService.java`</li>
+<li> RoomService.java</li>
+<li>WineService.java</li>
+<li>WhiskeyService.java</li>
+<li>ChampagneService.java</li>
 </ul>
 
 Also a `JUNIT` test:
