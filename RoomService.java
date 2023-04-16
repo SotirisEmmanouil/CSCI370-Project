@@ -10,6 +10,6 @@ public abstract class RoomService {
 	
 	abstract public double serviceCost();	//calculate cost
 	abstract public String servicesList();	//create a list of services provided
-	abstract public void deliver(String x);			//show the service is being provided
+	abstract public void deliver(String room);			//show the service is being provided
 
 }
