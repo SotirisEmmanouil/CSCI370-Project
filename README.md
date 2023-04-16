@@ -19,7 +19,8 @@ Also a `JUNIT` test:
 <ul>
 <li>ServiceTest.java</li>
 </ul>
-which tests the fiunctionality of the `servicesCost()` and `servicesList()` methods.
+
+which tests the functionality of the ` servicesCost() ` and `servicesList()` methods.
 
 UML for Decorator Pattern:
 
