@@ -24,4 +24,5 @@ which tests the functionality of the ` servicesCost() ` and `servicesList()` met
 
 UML for Decorator Pattern:
 
-<img width="650" alt="Screenshot 2023-04-16 at 4 39 00 PM" src="https://user-images.githubusercontent.com/108318635/232340982-959d1106-62b6-4cb3-9738-18bc6653883c.png">
+<img width="656" alt="Screenshot 2023-04-16 at 5 18 43 PM" src="https://user-images.githubusercontent.com/108318635/232342744-ff19d977-f512-4434-99aa-e8da2b0efbf4.png">
+
