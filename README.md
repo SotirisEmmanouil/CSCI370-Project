@@ -1,7 +1,7 @@
 # CSCI370-Project
-##A hotel management system
+## A hotel management system
 
-###Created by:
+### Created by:
 <ul>
 <li>Sotiris Emmanouil</li>
 </ul>
