@@ -26,3 +26,9 @@ UML for the Decorator Pattern:
 
 <img width="656" alt="Screenshot 2023-04-16 at 5 18 43 PM" src="https://user-images.githubusercontent.com/108318635/232342744-ff19d977-f512-4434-99aa-e8da2b0efbf4.png">
 
+Component Test:
+A hotel guest would like to purchase a bottle of wine and have it delivered to his hotel
+room. Once the order is placed, if the `serviceCost()` method is called upon the service object, the
+console will now print: 35.50. If the `servicesList()` method is called on the service object, it will
+return“Delivered Wine”, as of now, only a bottle of wine was ordered.
+
