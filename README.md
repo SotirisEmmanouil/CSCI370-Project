@@ -20,7 +20,7 @@ Sotiris implemented the Decorator Design Pattern with the following classes:
 <li>ServiceTest.java</li>
 </ul>
 
-which tests the functionality of the ` servicesCost() ` and `servicesList()` methods.
+which test the functionality of the ` servicesCost() ` and `servicesList()` methods.
 
 UML diagram for the Decorator Pattern:
 
