@@ -15,7 +15,7 @@ Sotiris implemented the Decorator Design Pattern with the following classes:
 <li>ChampagneService.java</li>
 </ul>
 
-### Also a `JUNIT` test:
+### Also two `JUNIT` tests in the class:
 <ul>
 <li>ServiceTest.java</li>
 </ul>
