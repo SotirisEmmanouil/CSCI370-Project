@@ -1,5 +1,5 @@
 # CSCI370-Project
-## A hotel management system
+## A hotel room service system
 
 ### Created by:
 <ul>
