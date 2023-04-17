@@ -30,5 +30,5 @@ UML diagram for the Decorator Pattern:
 A hotel guest would like to purchase a bottle of wine and have it delivered to his hotel
 room. Once the order is placed, if the `serviceCost()` method is called upon the service object, the
 console will now print: 35.50. If the `servicesList()` method is called on the service object, it will
-return“Delivered Wine”, as of now, only a bottle of wine was ordered.
+return “Delivered Wine”, because as of now, only a bottle of wine was ordered.
 
