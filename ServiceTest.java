@@ -14,9 +14,9 @@ class ServiceTest {
 	
 	@Test
     void test2(){
-    RoomService service2 = new WhiskeyService(null);
+    	RoomService service2 = new WhiskeyService(null);
 	     service2 = new WineService(service2);
-	 assertTrue(service2.servicesList().equals("Delivered Whiskey Delivered Wine "));
+	 	assertTrue(service2.servicesList().equals("Delivered Whiskey Delivered Wine "));
     //checks to see if the list of ordered items is Wine and Whiskey
 	}
 }
