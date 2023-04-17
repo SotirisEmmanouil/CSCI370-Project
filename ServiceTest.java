@@ -12,7 +12,7 @@ class ServiceTest {
 	//checks to see if price of whiskey and wine is truly $85.75
 	}
 	
-	@Test
+    @Test
     void test2(){
     	RoomService service2 = new WhiskeyService(null);
 	     service2 = new WineService(service2);
