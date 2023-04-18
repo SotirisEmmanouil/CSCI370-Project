@@ -1,6 +1,6 @@
 
 public class Main {
-
+		//demo of the decorator pattern 
 	public static void main(String[] args) {
 		int d;
 		String room = null;
