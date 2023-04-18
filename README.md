@@ -5,7 +5,8 @@
 <ul>
 <li>Sotiris Emmanouil</li>
 </ul>
-while taking Professor Aryeh Greenberg's "Software Engineering" course at CUNY Queens College (Spring 2023)<br>
+while taking Professor Aryeh Greenberg's "Software Engineering" course at CUNY Queens College (Spring 2023) <br>
+
 
 Sotiris implemented the Decorator Design Pattern with the following classes:
 
