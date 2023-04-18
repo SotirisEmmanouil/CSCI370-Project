@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 //author: Sotiris Emmanouil
 class ServiceTest {
 
-	@Test
-	void test1() {
+    @Test
+    void test1() {
 	RoomService service = new WhiskeyService(null);
 	     service = new WineService(service);
 		assertTrue(service.serviceCost()==85.75);
